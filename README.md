@@ -1,2 +1,2 @@
-# Facebook-Clone-using-HTML-CSS-JavaScript
-Facebook Clone using HTML CSS JavaScript
+# Facebook-Clone
+Facebook Clone Website With HTML , CSS , JS
